@@ -1,0 +1,46 @@
+1. useState() -- Imp
+2. useEffect() -- Imp
+3. useCallback() -- Imp
+4. useContext() -- Imp
+5. useDebugValue()
+6. useDefferedValue()
+7. useId() -- Imp
+8. useImperativeHandle()
+9. useInsertionEffect()
+10. useLayoutEffect() -- Imp
+11. useMemo() -- Imp
+12. useReducer() -- Imp
+13. useRef() -- Imp
+14. useSyncExternalStore()
+15. useTransition() -- Imp
+
+--------------------------------------------------------------
+16. use() - (19th Version)
+17. useOptimistic() - (19th Version)
+
+------------------- React Component --------------------------
+1. Fragment (<></>)
+2. Profiler
+3. Suspense
+4. StrictMode
+
+------------------ React API's -------------------------------
+1. cache
+2. memo
+3. createContext()
+4. forwardRef
+5. lazy
+6. startTransistion
+
+
+------------------- React Directives ------------------------
+1. 'use client'
+2. 'use server'
+
+-------------- React Main feature to explore -----------------
+
+1. Fragment
+2. Profiler
+3. Suspense
+4. lazy
+5. memo
