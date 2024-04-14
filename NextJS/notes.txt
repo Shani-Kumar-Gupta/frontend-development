@@ -1,0 +1,8 @@
+1. Why Next.js?
+- Routing
+- API Routes
+- Rendering
+- Optimization
+- Data fetching
+- Styling
+- Dev and Prod build system 
