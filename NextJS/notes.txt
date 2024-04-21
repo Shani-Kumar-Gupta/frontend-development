@@ -18,3 +18,7 @@ The architecture introduces a new way of creating React components, splitting th
 - Client Component
   : To create a CLient Component, it's necessary to add 'use client' at the top of the component file
   : Client component can;t perform tasks like reading the files but they have the ability to use hooks and manage interaction.
+
+3. Routing:
+- Next.js has file-system based routing mechanism (Imp)
+- URL paths that users can access in the browser are defined by files and folders in your codebase.
