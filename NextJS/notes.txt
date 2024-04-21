@@ -6,3 +6,10 @@
 - Data fetching
 - Styling
 - Dev and Prod build system 
+
+
+2. What is React Server Component? (RSC)
+Ans: React Server Component is a new Architecture introduced by React Team in version 18 which was quickly embraced by Next.js
+The architecture introduces a new way of creating React components, splitting them into two types:
+- Server Component
+- Client Component
