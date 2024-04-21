@@ -22,3 +22,7 @@ The architecture introduces a new way of creating React components, splitting th
 3. Routing:
 - Next.js has file-system based routing mechanism (Imp)
 - URL paths that users can access in the browser are defined by files and folders in your codebase.
+  : Routing
+  : Nested Routes
+  : Dynamic Routes
+  : Nested Dynamic Routes
